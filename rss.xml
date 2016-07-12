@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[52Portraits]]></title>
         <description><![CDATA[52Portraits]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/52portraits/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 21:46:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 21:47:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/52portraits/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[52 Portraits, No. 2]]></title>
+            <description><![CDATA[<article><h1>52 Portraits, No. 2</h1><p>For my second portrait of this series, I thought my friend Lizzy would be great a subject. She had never been photographed in a studio situation before, so it was fun to direct her and work together to get an image we both really liked. We shot for about 15 minutes, and ended up with the image below that I really loved. Thanks Lizzy!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b367ed83-15af-448e-b5d9-5e8eec05ea2d.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b367ed83-15af-448e-b5d9-5e8eec05ea2d.jpg</link>
+            <guid isPermaLink="false">254280b8-bc80-4251-9038-c1e3ae62a55d</guid>
+            <pubDate>Tue, 12 Jul 2016 21:47:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[52 Portraits, No. 1]]></title>
             <description><![CDATA[<article><h1>52 Portraits, No. 1</h1><p>A few years ago I did a photo 365 project, and was really amazed at how much I grew through the project, as well as how much fun I had. I love shooting portraits, but most of my work and personal projects have always been location assignments where I am lighting people in natural backgrounds. As much fun as those are, I want to push myself to shoot more portraits in the studio on a background. Its a different way and challenge to capturing someone and tell a story. For the rest of the year I'll be shooting a black and white portrait of someone every week, and sharing on my blog and instagram. I couldn't think of a better person to start off with than my good friend Austin, who is actually moving out west this weekend. Can't wait to see the collection of images as a whole one year from now, or who I will meet and photograph through it.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ea77e03-6f21-47cc-9ae8-62fd445c6798.jpg"></article>]]></description>
