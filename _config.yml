@@ -1,0 +1,14 @@
+layout_spectrum: 0.2374065313488245
+typography_spectrum: 0.3749507248867303
+color:
+  brandStrength: 0.21485316613689065
+  lightness: 0.7359749577008188
+  saturation: 0.4524151615332812
+  rhythmicContrast: 0.11577716772444546
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 52Portraits
