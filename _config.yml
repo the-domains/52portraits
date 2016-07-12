@@ -1,20 +1,4 @@
-name: Fifty Two
-favicon: null
-layout_spectrum: 0.82946
 typography_spectrum: 0.3749507248867303
-style: the-composer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#DC3522'
@@ -26,4 +10,24 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.11577716772444546
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a1b7cbd-40ff-4189-8bf7-ff5e7225c42e.jpg
+  type: null
+  appId: null
+layout_spectrum: 0.82946
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bc7e78e-bdb2-4f24-a9ca-07d3841f1600.jpg
+name: Fifty Two
+cta:
+  domain: null
+  bucket: null
+  version: null
+style: the-composer
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a5efd2b-3b25-4009-ae1d-05c217474fa0.jpg
 purpose: []
