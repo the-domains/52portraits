@@ -1,15 +1,29 @@
-layout_spectrum: 0.2374065313488245
+name: Fifty Two
+favicon: null
+layout_spectrum: 0.49764
 typography_spectrum: 0.3749507248867303
+style: the-composer
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.21485316613689065
-  lightness: 0.7359749577008188
-  saturation: 0.4524151615332812
-  rhythmicContrast: 0.11577716772444546
   brandColors:
     - '#DC3522'
     - '#D9CB9E'
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
-name: 52Portraits
-style: the-composer
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.11577716772444546
+purpose: []
