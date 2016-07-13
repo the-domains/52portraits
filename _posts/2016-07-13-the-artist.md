@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
@@ -13,8 +13,8 @@ description: >-
   immerse viewers. Having been raised in a family owned business, the values of
   hard work, good client relationships, and delivering on time and within budget
   have been drilled into him since an early age.
-datePublished: '2016-07-13T00:10:33.121Z'
-dateModified: '2016-07-13T00:10:28.086Z'
+datePublished: '2016-07-13T00:24:29.869Z'
+dateModified: '2016-07-13T00:23:59.495Z'
 title: The Artist
 author: []
 sourcePath: _posts/2016-07-13-the-artist.md
@@ -22,7 +22,7 @@ authors: []
 publisher: null
 starred: false
 url: the-artist/index.html
-_type: WebPage
+_type: Article
 
 ---
 # The Artist
