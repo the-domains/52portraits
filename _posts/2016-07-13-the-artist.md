@@ -1,4 +1,9 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
 description: >-
   Seth's passion for the visual story has led him to creating both still images
   and video for a variety of clients across the country. Be it a campaign for a
@@ -8,18 +13,16 @@ description: >-
   immerse viewers. Having been raised in a family owned business, the values of
   hard work, good client relationships, and delivering on time and within budget
   have been drilled into him since an early age.
-dateModified: '2016-07-13T00:10:06.552Z'
-datePublished: '2016-07-13T00:10:11.473Z'
+datePublished: '2016-07-13T00:10:33.121Z'
+dateModified: '2016-07-13T00:10:28.086Z'
 title: The Artist
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/27a98e44-945a-4723-821c-f7043f3c148c.jpg
-starred: false
 sourcePath: _posts/2016-07-13-the-artist.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: null
+starred: false
+url: the-artist/index.html
+_type: WebPage
 
 ---
 # The Artist
