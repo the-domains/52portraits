@@ -13,14 +13,14 @@ description: >-
   background. Its a different way and challenge to capturing someone and tell a
   story. For the rest of the year I'll be shooting a black and white portrait of
   someone every week, and sharing on my Grid site and instagram.
-datePublished: '2016-07-13T00:08:05.387Z'
-dateModified: '2016-07-13T00:07:59.164Z'
+datePublished: '2016-07-13T00:24:36.171Z'
+dateModified: '2016-07-13T00:24:00.734Z'
 title: Photo 52 Portrait Project
 author: []
 sourcePath: _posts/2016-07-13-photo-52-portrait-project.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: photo-52-portrait-project/index.html
 _type: Article
 
